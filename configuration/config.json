@@ -1,0 +1,4 @@
+{
+  "server_url" : "http://some-server-url",
+  "app_port": 8081
+}
